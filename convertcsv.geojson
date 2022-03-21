@@ -1,0 +1,1915 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1322335,22.73533642 ]
+    },
+    "properties": {
+    "name":"广东省东莞市凤岗镇保利百合花园"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9550713,22.79818579 ]
+    },
+    "properties": {
+    "name":"广东省深圳市光明区新湖街道同富裕工业区春天公寓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9157193,22.53492421 ]
+    },
+    "properties": {
+    "name":"广东省深圳市南山区南头街道南景苑大厦"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9114676,22.53686726 ]
+    },
+    "properties": {
+    "name":"广东省深圳市南山区南头街道大新新村"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9118878,22.51730983 ]
+    },
+    "properties": {
+    "name":"广东省深圳市南山区南山街道华联城市中心"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9008616,22.53855449 ]
+    },
+    "properties": {
+    "name":"广东省深圳市南山区南山街道龙海家园"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9008616,22.53855449 ]
+    },
+    "properties": {
+    "name":"广东省深圳市南山区南山街道龙海家园"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9008616,22.53855449 ]
+    },
+    "properties": {
+    "name":"广东省深圳市南山区南山街道龙海家园"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.925691,22.50385865 ]
+    },
+    "properties": {
+    "name":"广东省深圳市南山区招商街道爱榕园"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.925691,22.50385865 ]
+    },
+    "properties": {
+    "name":"广东省深圳市南山区招商街道爱榕园"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.925691,22.50385865 ]
+    },
+    "properties": {
+    "name":"广东省深圳市南山区招商街道爱榕园"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.8851553,22.48113895 ]
+    },
+    "properties": {
+    "name":"广东省深圳市南山区招商街道赤湾四路2号"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9517686,22.57321639 ]
+    },
+    "properties": {
+    "name":"广东省深圳市南山区桃源街道龙都名园"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9599125,22.53960144 ]
+    },
+    "properties": {
+    "name":"广东省深圳市南山区沙河街道汇雅苑"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9231204,22.49188985 ]
+    },
+    "properties": {
+    "name":"广东省深圳市南山区蛇口街道石云村"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9231204,22.49188985 ]
+    },
+    "properties": {
+    "name":"广东省深圳市南山区蛇口街道石云村"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9223388,22.49113674 ]
+    },
+    "properties": {
+    "name":"广东省深圳市南山区蛇口街道石云村12栋"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.8839078,22.46401578 ]
+    },
+    "properties": {
+    "name":"广东省深圳市南山区蛇口街道赤湾公寓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9222036,22.49577291 ]
+    },
+    "properties": {
+    "name":"广东省深圳市南山区蛇口街道雷公岭15号"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9222036,22.49577291 ]
+    },
+    "properties": {
+    "name":"广东省深圳市南山区蛇口街道雷公岭15号"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9222426,22.49452086 ]
+    },
+    "properties": {
+    "name":"广东省深圳市南山区蛇口街道雷公岭村"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9222426,22.49452086 ]
+    },
+    "properties": {
+    "name":"广东省深圳市南山区蛇口街道雷公岭村"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9222426,22.49452086 ]
+    },
+    "properties": {
+    "name":"广东省深圳市南山区蛇口街道雷公岭村"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9222426,22.49452086 ]
+    },
+    "properties": {
+    "name":"广东省深圳市南山区蛇口街道雷公岭村"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9222426,22.49452086 ]
+    },
+    "properties": {
+    "name":"广东省深圳市南山区蛇口街道雷公岭村"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9241442,22.67397179 ]
+    },
+    "properties": {
+    "name":"广东省深圳市宝安区石岩街道下排村四区四巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.8542612,22.59009157 ]
+    },
+    "properties": {
+    "name":"广东省深圳市宝安区石岩街道云熙谷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.8542612,22.59009157 ]
+    },
+    "properties": {
+    "name":"广东省深圳市宝安区石岩街道云熙谷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.8542612,22.59009157 ]
+    },
+    "properties": {
+    "name":"广东省深圳市宝安区石岩街道云熙谷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.8542612,22.59009157 ]
+    },
+    "properties": {
+    "name":"广东省深圳市宝安区石岩街道云熙谷二期"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9279557,22.67276811 ]
+    },
+    "properties": {
+    "name":"广东省深圳市宝安区石岩街道建兴二路龙晟苑"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9273887,22.67995224 ]
+    },
+    "properties": {
+    "name":"广东省深圳市宝安区石岩街道浪心村"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9273887,22.67995224 ]
+    },
+    "properties": {
+    "name":"广东省深圳市宝安区石岩街道浪心村"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9146352,22.66640101 ]
+    },
+    "properties": {
+    "name":"广东省深圳市宝安区石岩街道浪心社区龙马小区"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.925319,22.68157757 ]
+    },
+    "properties": {
+    "name":"广东省深圳市宝安区石岩街道浪心车头村3巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9341399,22.67636896 ]
+    },
+    "properties": {
+    "name":"广东省深圳市宝安区石岩街道罗租上新村三巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9338642,22.6764034 ]
+    },
+    "properties": {
+    "name":"广东省深圳市宝安区石岩街道罗租上新村八巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9274788,22.67696381 ]
+    },
+    "properties": {
+    "name":"广东省深圳市宝安区石岩街道罗租下新村八巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9274788,22.67696381 ]
+    },
+    "properties": {
+    "name":"广东省深圳市宝安区石岩街道罗租社区下新村八巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.8745233,22.60094411 ]
+    },
+    "properties": {
+    "name":"广东省深圳市宝安区西乡街道凤凰岗北一巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.8638738,22.56352382 ]
+    },
+    "properties": {
+    "name":"广东省深圳市宝安区西乡街道浪漫港湾"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.8772474,22.57386974 ]
+    },
+    "properties": {
+    "name":"广东省深圳市宝安区西乡街道自由七队4巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1334752,22.56753354 ]
+    },
+    "properties": {
+    "name":"广东省深圳市水库新村统建楼2栋"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.069455,22.57263629 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区梅林街道特皓苑"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0274783,22.52406444 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道上沙东村"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.02906,22.52485931 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道上沙东村16巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.02906,22.52485931 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道上沙东村16巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.02906,22.52485931 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道上沙东村16巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.02906,22.52485931 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道上沙东村16巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.02906,22.52485931 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道上沙东村16巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.02906,22.52485931 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道上沙东村16巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.02906,22.52485931 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道上沙东村16巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0282398,22.52324649 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道上沙东村21巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0265053,22.523742 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道上沙东村4巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0265053,22.523742 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道上沙东村4巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0267019,22.52413947 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道上沙东村5巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0267019,22.52413947 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道上沙东村5巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0267019,22.52413947 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道上沙东村5巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0267937,22.52420922 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道上沙东村6巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0267937,22.52420922 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道上沙东村6巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0267937,22.52420922 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道上沙东村6巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0267937,22.52420922 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道上沙东村6巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0268346,22.5245051 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道上沙东村7巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0268346,22.5245051 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道上沙东村7巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0270043,22.52427567 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道上沙东村8巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0270043,22.52427567 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道上沙东村8巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0270043,22.52427567 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道上沙东村8巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0270043,22.52427567 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道上沙东村8巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0270043,22.52427567 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道上沙东村8巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0270043,22.52427567 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道上沙东村8巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0270043,22.52427567 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道上沙东村8巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0270043,22.52427567 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道上沙东村8巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0270043,22.52427567 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道上沙东村8巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0270043,22.52427567 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道上沙东村8巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0270043,22.52427567 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道上沙东村8巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0270043,22.52427567 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道上沙东村8巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0270043,22.52427567 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道上沙东村8巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0270043,22.52427567 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道上沙东村8巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0270043,22.52427567 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道上沙东村8巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0270043,22.52427567 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道上沙东村8巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0270043,22.52427567 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道上沙东村8巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0270043,22.52427567 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道上沙东村8巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0270043,22.52427567 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道上沙东村8巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0276847,22.5264538 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道上沙塘晏村4巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0257126,22.53002582 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道上沙椰树村11巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0255021,22.5295584 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道上沙椰树村7巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0255021,22.5295584 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道上沙椰树村7巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0252607,22.52803512 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道上沙椰树村8巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0252607,22.52803512 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道上沙椰树村8巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0252607,22.52803512 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道上沙椰树村8巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0298562,22.52725417 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道上沙龙秋村18巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0212165,22.52901604 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道下沙3坊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0209612,22.52690684 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道下沙4坊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0281145,22.53149045 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道天安数码城顺泰公寓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0421272,22.5248763 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道新洲南村"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0421272,22.5248763 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道新洲南村"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0421272,22.5248763 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道新洲南村"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0421272,22.5248763 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道新洲南村"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0421272,22.5248763 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道新洲南村"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0421272,22.5248763 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道新洲南村"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0421272,22.5248763 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道新洲南村"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0421272,22.5248763 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道新洲南村"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0421272,22.5248763 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道新洲南村"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0421272,22.5248763 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道新洲南村"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0323337,22.52190317 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道沙嘴一坊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0258204,22.52923957 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道深圳锦宏旅馆"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0106178,22.53565196 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道福安大厦"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0106178,22.53565196 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道福安大厦"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0356751,22.52702786 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道锦河苑"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0356751,22.52702786 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道锦河苑"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0395132,22.52880789 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道锦洲花园"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0395132,22.52880789 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区沙头街道锦洲花园"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0482266,22.51723205 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区福保街道益田村"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0482266,22.51723205 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区福保街道益田村"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0994212,22.55659628 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区福保街道益田村南临时建筑"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0638992,22.53916156 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区福田街道岗厦村东4坊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0643039,22.53902304 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区福田街道岗厦村东四坊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0752671,22.5306591 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区福田街道滨河大道3207号"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0752671,22.5306591 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区福田街道滨河大道3207号"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0752671,22.5306591 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区福田街道滨河大道3207号"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0577279,22.52789598 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区福田街道皇岗上围一村"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0524425,22.52871177 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区福田街道皇庭世纪"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0524425,22.52871177 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区福田街道皇庭世纪"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0524425,22.52871177 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区福田街道皇庭世纪"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0685509,22.51879893 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区福田街道金地名津"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0685509,22.51879893 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区福田街道金地名津"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0685509,22.51879893 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区福田街道金地名津"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0685509,22.51879893 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区福田街道金地名津"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0685509,22.51879893 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区福田街道金地名津"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0685509,22.51879893 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区福田街道金地名津"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0274401,22.55913634 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区莲花街道万科城市花园"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0274401,22.55913634 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区莲花街道万科城市花园"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0394221,22.54887291 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区莲花街道金色假日名苑"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0394221,22.54887291 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区莲花街道金色假日名苑"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0394221,22.54887291 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区莲花街道金色假日名苑"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0394221,22.54887291 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区莲花街道金色假日名苑"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0394221,22.54887291 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区莲花街道金色假日名苑"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0394221,22.54887291 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区莲花街道金色假日名苑"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0143465,22.55756958 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区香蜜湖街道万科温馨家园"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0064079,22.53963221 ]
+    },
+    "properties": {
+    "name":"广东省深圳市福田区香蜜湖街道越众小区"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1043118,22.53918437 ]
+    },
+    "properties": {
+    "name":"广东省深圳市罗湖区桂园街道华瑞大厦"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1043118,22.53918437 ]
+    },
+    "properties": {
+    "name":"广东省深圳市罗湖区桂园街道华瑞大厦"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1035981,22.53736414 ]
+    },
+    "properties": {
+    "name":"广东省深圳市罗湖区桂园街道鹿苑小区"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1035981,22.53736414 ]
+    },
+    "properties": {
+    "name":"广东省深圳市罗湖区桂园街道鹿苑小区"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1087225,22.58776944 ]
+    },
+    "properties": {
+    "name":"广东省深圳市罗湖区清水河街道吓围新村"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1064503,22.588148 ]
+    },
+    "properties": {
+    "name":"广东省深圳市罗湖区清水河街道草埔西社区鹤围村"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1052678,22.58753944 ]
+    },
+    "properties": {
+    "name":"广东省深圳市罗湖区清水河街道草埔西社区鹤围村58栋"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1052208,22.58745542 ]
+    },
+    "properties": {
+    "name":"广东省深圳市罗湖区清水河街道草埔西社区鹤围村64栋"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1052208,22.58745542 ]
+    },
+    "properties": {
+    "name":"广东省深圳市罗湖区清水河街道草埔西社区鹤围村64栋"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1052208,22.58745542 ]
+    },
+    "properties": {
+    "name":"广东省深圳市罗湖区清水河街道草埔西社区鹤围村64栋"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1052208,22.58745542 ]
+    },
+    "properties": {
+    "name":"广东省深圳市罗湖区清水河街道草埔西社区鹤围村64栋"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1052208,22.58745542 ]
+    },
+    "properties": {
+    "name":"广东省深圳市罗湖区清水河街道草埔西社区鹤围村64栋"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1090154,22.56465412 ]
+    },
+    "properties": {
+    "name":"广东省深圳市罗湖区笋岗街道笋岗村169栋"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1594889,22.56801688 ]
+    },
+    "properties": {
+    "name":"广东省深圳市罗湖区莲塘街道鹏兴花园一期"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1325325,22.54474004 ]
+    },
+    "properties": {
+    "name":"广东省深圳市罗湖区黄贝街道向西华侨新村，东莞居住地址为东莞塘厦林村多仔岭六巷。"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0077891,22.6541738 ]
+    },
+    "properties": {
+    "name":"广东省深圳市龙华区大浪街道龙胜新村"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0326959,22.61543012 ]
+    },
+    "properties": {
+    "name":"广东省深圳市龙华区民治街道樟坑1区"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0802426,22.70539896 ]
+    },
+    "properties": {
+    "name":"广东省深圳市龙华区观澜街道老一村"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0203057,22.66447953 ]
+    },
+    "properties": {
+    "name":"广东省深圳市龙华区龙华街道锦绣新村"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1279893,22.5948518 ]
+    },
+    "properties": {
+    "name":"广东省深圳市龙岗区信义金御半山3期"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1211735,22.64380162 ]
+    },
+    "properties": {
+    "name":"广东省深圳市龙岗区南湾街道维也纳国际酒店（李朗珠宝园店）"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1030835,22.62881928 ]
+    },
+    "properties": {
+    "name":"广东省深圳市龙岗区吉华街道上水花园37栋"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1064168,22.62685227 ]
+    },
+    "properties": {
+    "name":"广东省深圳市龙岗区吉华街道中海怡翠山庄"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1074993,22.6108405 ]
+    },
+    "properties": {
+    "name":"广东省深圳市龙岗区吉华街道西环路2号长龙富辰公寓"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0773326,22.62783472 ]
+    },
+    "properties": {
+    "name":"广东省深圳市龙岗区坂田街道侨联东5巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0773326,22.62783472 ]
+    },
+    "properties": {
+    "name":"广东省深圳市龙岗区坂田街道侨联东5巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0760868,22.62648586 ]
+    },
+    "properties": {
+    "name":"广东省深圳市龙岗区坂田街道信挚科技园"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0581474,22.62182139 ]
+    },
+    "properties": {
+    "name":"广东省深圳市龙岗区坂田街道光雅园村"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.06073,22.65501938 ]
+    },
+    "properties": {
+    "name":"广东省深圳市龙岗区坂田街道岗头社区马蹄山村五巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0524392,22.64068454 ]
+    },
+    "properties": {
+    "name":"广东省深圳市龙岗区坂田街道御珑豪园"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0559007,22.63604349 ]
+    },
+    "properties": {
+    "name":"广东省深圳市龙岗区坂田街道旺塘12巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.071077,22.62342274 ]
+    },
+    "properties": {
+    "name":"广东省深圳市龙岗区坂田街道诺德公馆"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0761666,22.62868642 ]
+    },
+    "properties": {
+    "name":"广东省深圳市龙岗区坂田街道马安堂社区侨联东1巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0761666,22.62868642 ]
+    },
+    "properties": {
+    "name":"广东省深圳市龙岗区坂田街道马安堂社区侨联东1巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0762156,22.6280475 ]
+    },
+    "properties": {
+    "name":"广东省深圳市龙岗区坂田街道马安堂社区侨联东3巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0762156,22.6280475 ]
+    },
+    "properties": {
+    "name":"广东省深圳市龙岗区坂田街道马安堂社区侨联东3巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0762156,22.6280475 ]
+    },
+    "properties": {
+    "name":"广东省深圳市龙岗区坂田街道马安堂社区侨联东3巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0773326,22.62783472 ]
+    },
+    "properties": {
+    "name":"广东省深圳市龙岗区坂田街道马安堂社区侨联东5巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0773326,22.62783472 ]
+    },
+    "properties": {
+    "name":"广东省深圳市龙岗区坂田街道马安堂社区侨联东5巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0764556,22.62785635 ]
+    },
+    "properties": {
+    "name":"广东省深圳市龙岗区坂田街道马安堂社区侨联东顺兴楼"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0764556,22.62785635 ]
+    },
+    "properties": {
+    "name":"广东省深圳市龙岗区坂田街道马安堂社区侨联东顺兴楼"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0764556,22.62785635 ]
+    },
+    "properties": {
+    "name":"广东省深圳市龙岗区坂田街道马安堂社区侨联东顺兴楼"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0764556,22.62785635 ]
+    },
+    "properties": {
+    "name":"广东省深圳市龙岗区坂田街道马安堂社区侨联东顺兴楼"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0764556,22.62785635 ]
+    },
+    "properties": {
+    "name":"广东省深圳市龙岗区坂田街道马安堂社区侨联东顺兴楼"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0609686,22.65703363 ]
+    },
+    "properties": {
+    "name":"广东省深圳市龙岗区坂田街道马蹄山村倒角1巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2985833,22.73409097 ]
+    },
+    "properties": {
+    "name":"广东省深圳市龙岗区宝龙街道龙新社区兰一村"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.103232,22.60824666 ]
+    },
+    "properties": {
+    "name":"广东省深圳市龙岗区布吉街道东心岭20巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1045255,22.60857321 ]
+    },
+    "properties": {
+    "name":"广东省深圳市龙岗区布吉街道布吉社区壹村东心岭八巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1045255,22.60857321 ]
+    },
+    "properties": {
+    "name":"广东省深圳市龙岗区布吉街道布吉社区壹村东心岭八巷"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2372811,22.73516331 ]
+    },
+    "properties": {
+    "name":"广东省深圳市龙岗区龙城街道中央悦城"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.2161,22.72300652 ]
+    },
+    "properties": {
+    "name":"广东省深圳市龙岗区龙城街道天健现代城"
+    }
+  }
+]
+}
